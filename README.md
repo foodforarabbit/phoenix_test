@@ -1,4 +1,7 @@
 
+- added per-page js loading
+- added chatroom (lobby example) plus other rooms 
+
 # PhoenixTest
 
 To start your Phoenix app:
